@@ -27,8 +27,8 @@ Welcome to my "100 Days of LeetCode Solutions" challenge. Over the next 100 days
 
 I'd love to connect with other developers and enthusiasts who are also passionate about problem-solving and coding. Please feel free to connect with me on:
 
-- LinkedIn: [https://www.linkedin.com/in/mudassirquraishi/]
-- GitHub: [https://github.com/MudassirQuraishi]
+- [LinkedIn](https://www.linkedin.com/in/mudassirquraishi/)
+- [GitHub](https://github.com/MudassirQuraishi)
 
 ## Acknowledgments
 
