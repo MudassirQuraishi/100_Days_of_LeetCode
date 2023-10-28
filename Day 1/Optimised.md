@@ -18,7 +18,7 @@ Our first thought is to reverse the number and check if the reversed number is e
 
 # Code
 
-```java
+``` java
 class Solution {
     public boolean isPalindrome(int x) {
         if (x < 0) {
