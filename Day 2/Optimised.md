@@ -21,7 +21,7 @@ This approach is efficient and doesn't involve any loops or recursion.
 
 # Code
 
-```
+```java
 class Solution {
     public boolean isPowerOfTwo(int n) {
         if (n <= 0) {

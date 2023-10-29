@@ -29,6 +29,6 @@ Output: `false`
 
 ## Question
 
-- Solve it on LeetCode
+- Solve it on LeetCode.
 
 [Power of Two] (https://leetcode.com/problems/power-of-two/description/)

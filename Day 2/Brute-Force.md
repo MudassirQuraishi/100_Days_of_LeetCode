@@ -20,7 +20,7 @@ The intuition behind this code is to determine if a given integer n is a power o
 
 # Code
 
-```
+```java
 class Solution {
     public boolean isPowerOfTwo(int n) {
         if(n == 0 ) return false;
