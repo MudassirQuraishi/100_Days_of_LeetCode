@@ -16,7 +16,7 @@ Welcome to my "100 Days of LeetCode Solutions" challenge. Over the next 100 days
 1. Each day, I will randomly select a LeetCode problem to solve.
 2. I will code both a brute-force solution and an optimized solution in Java.
 3. I will document and comment on my code to explain my thought process.
-4. I will post my solutions on [Platform Name] and share them on my LinkedIn profile.
+4. I will post my solutions on [LeetCode](https://leetcode.com/MudassirQuruashi/) and share them on my [LinkedIn](https://www.linkedin.com/in/mudassirquraishi/) profile.
 
 ## Directory Structure
 
